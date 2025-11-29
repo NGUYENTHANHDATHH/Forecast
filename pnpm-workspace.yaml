@@ -1,0 +1,6 @@
+packages:
+  - 'backend'
+  - 'web'
+  - 'mobile'
+  - 'shared'
+  - 'docs-site'
